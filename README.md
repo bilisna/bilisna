@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Bilisna Tamrakar 👋
 
-<!--
-**bilisna/bilisna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Web Development Enthusiast
 
-Here are some ideas to get you started:
+📍 Chakrabahil, Lalitpur, Nepal  
+📧 bilisnatamrakar@gmail.com  
+📱 +977 9865021389
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I am a motivated Bachelor of Computer Application (BCA) student with knowledge of programming, web development, and database management. I enjoy building practical software projects, solving problems, and continuously learning new technologies.
+
+---
+
+## 🛠 Skills
+
+- Problem Solving
+- Web Development
+- Database Management
+- Microsoft Office
+- Conflict Management
+- Teamwork
+
+---
+
+## 🎓 Education
+
+**Bachelor in Computer Application (BCA)**  
+*Himalaya College of Engineering, Lalitpur*  
+**2024 – Present**
+
+**Management (Computer Science)**  
+*Prasadi Academy Secondary School, Lalitpur*
+
+---
+
+## 📜 Training
+
+**Web Designing Training** – Broadway
+
+---
+
+## 🚀 Featured Project
+
+### ☕ Cafe POS System
+
+A Cafe Point of Sale (POS) System developed to simplify cafe operations.
+
+**Features:**
+- Menu Management
+- Customer Order Management
+- Billing System
+- Sales Record Management
+- Database Integration
+- User-Friendly Interface
+
+---
+
+## 🌱 Currently Learning
+
+- Java
+- PHP
+- MySQL
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: bilisnatamrakar@gmail.com
+- 📍 Lalitpur, Nepal
